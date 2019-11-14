@@ -1,0 +1,35 @@
+body {
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(1, 0, 66, 0.3),
+      rgba(1, 0, 31, 1)
+    ),
+    url(Photos/backgorund.JPG);
+  background-size: cover;
+  background-position: center;
+  text-align: left;
+}
+
+div {
+  height: 100vh;
+  color: rgba(255, 196, 20, 1);
+  font-size: 20px;
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1 {
+  color: ;
+  text-transform: uppercase;
+  font: ;
+}
+
+ul {
+  list-style-type: none;
+  color: darkorange;
+}
+
+img {
+  height: 300px;
+  filter: grayscale(100%);
+}
